@@ -10,14 +10,14 @@ export default function HeroSection() {
         <div className="grid lg:grid-cols-2 gap-8 sm:gap-10 lg:gap-16 xl:gap-20 items-center">
           <div className="space-y-4 sm:space-y-6 lg:space-y-8 order-1 lg:order-1">
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-medium text-white leading-[1.1] sm:leading-[1.05] lg:leading-[1] tracking-tight font-sans">
-              We're a premium design agency.
+              We&apos;re a premium design agency.
             </h1>
 
             <p className="text-white text-sm sm:text-base lg:text-lg max-w-xl font-normal font-sans tracking-tight leading-relaxed">
-              When we say 'premium,' we mean an agency that works with brands
+              When we say &apos;premium,&apos; we mean an agency that works with brands
               that{" "}
               <span className="text-[#FA7047] font-medium">
-                'think, talk, and feel premium'
+                &apos;think, talk, and feel premium&apos;
               </span>
               .
             </p>
