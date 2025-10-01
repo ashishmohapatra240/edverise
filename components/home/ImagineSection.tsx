@@ -7,7 +7,7 @@ export default function ImagineSection() {
     <section className="relative bg-black py-16 sm:py-20 lg:py-24 xl:py-32">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <h2 className="text-3xl md:text-4xl lg:text-6xl font-medium text-white text-center mb-12 leading-tight tracking-tight font-sans">
-          Imagine that's your product.
+          Imagine that&apos;s your product.
         </h2>
 
         <div className="grid md:grid-cols-2 gap-6 sm:gap-8 lg:gap-16">
@@ -48,7 +48,7 @@ export default function ImagineSection() {
 
             <p className="text-[#9C9C9C] text-base font-normal font-sans leading-relaxed max-w-md">
               "Design is the art of letting go, of all that is unnecessary". We
-              truly believe in designing for the 'whys?'.
+              truly believe in designing for the &apos;whys?&apos;.
             </p>
           </div>
         </div>

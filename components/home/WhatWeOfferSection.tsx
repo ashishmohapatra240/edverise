@@ -36,9 +36,9 @@ export default function WhatWeOfferSection() {
             What we offer.
           </h2>
           <p className="text-white text-base font-normal font-sans tracking-tight leading-relaxed max-w-2xl">
-            When we say 'premium,' we mean an agency that works with brands that{" "}
+            When we say &apos;premium,&apos; we mean an agency that works with brands that{" "}
             <span className="text-[#FA7047] font-medium">
-              'think, talk, and feel premium'
+              &apos;think, talk, and feel premium&apos;
             </span>
             .
           </p>

@@ -51,9 +51,9 @@ export default function TestimonialsSection() {
             What they say about us.
           </h2>
           <p className="text-white text-base font-normal font-sans tracking-tight leading-relaxed max-w-2xl">
-            When we say 'premium,' we mean an agency that works with brands that{" "}
+            When we say &apos;premium,&apos; we mean an agency that works with brands that{" "}
             <span className="text-[#FA7047] font-medium">
-              'think, talk, and feel premium'
+              &apos;think, talk, and feel premium&apos;
             </span>
             .
           </p>
@@ -104,7 +104,7 @@ export default function TestimonialsSection() {
               <div className="flex-1">
                 <p className="text-sm sm:text-base text-white/90 font-normal font-sans leading-relaxed">
                   <span className="font-medium text-white">
-                    'think, talk, and feel premium'
+                    &apos;think, talk, and feel premium&apos;
                   </span>
                   . {testimonial.text}
                 </p>
