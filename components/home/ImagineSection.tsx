@@ -31,7 +31,6 @@ export default function ImagineSection() {
             </p>
           </div>
 
-  
           <div className="bg-[#1A1A1A] border border-[#2A2A2A] rounded-2xl md:rounded-3xl lg:rounded-[32px] p-8 flex flex-col items-center text-center space-y-3">
             <div className="w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 flex items-center justify-center">
               <Image
@@ -47,8 +46,9 @@ export default function ImagineSection() {
             </h3>
 
             <p className="text-[#9C9C9C] text-base font-normal font-sans leading-relaxed max-w-md">
-              "Design is the art of letting go, of all that is unnecessary". We
-              truly believe in designing for the &apos;whys?&apos;.
+              &quot;Design is the art of letting go, of all that is
+              unnecessary&quot;. We truly believe in designing for the
+              &apos;whys?&apos;.
             </p>
           </div>
         </div>
