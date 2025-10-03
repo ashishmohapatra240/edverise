@@ -5,6 +5,7 @@ import WhatWeOfferSection from '@/components/home/WhatWeOfferSection';
 import WhatAreWeMadeOfSection from '@/components/home/WhatAreWeMadeOfSection';
 import ChoosePackageSection from '@/components/home/ChoosePackageSection';
 import TestimonialsSection from '@/components/home/TestimonialsSection';
+import TeamSection from '@/components/home/TeamSection';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <HowWeDoThingsSection />
       <WhatWeOfferSection />
       <WhatAreWeMadeOfSection />
+      <TeamSection />
       <ChoosePackageSection />
       <TestimonialsSection />
     </main>
